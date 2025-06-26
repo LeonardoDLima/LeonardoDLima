@@ -1,16 +1,19 @@
+---
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=200&size=40&pause=1000&color=00F712&center=true&width=600&lines=Ol%C3%A1%2C+me+chamo+Leonardo!;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=150&size=40&pause=1000&color=00F712&center=true&width=600&lines=Ol%C3%A1%2C+me+chamo+Leonardo!;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
+---
+<a>
 🎒Eu estou estudando Engenharia de software!! <br>
 📚E estudando inglês na Open English! <br>
-
+</a>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoDLima&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDLima&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 </div>
 
