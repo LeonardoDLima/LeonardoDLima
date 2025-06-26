@@ -1,22 +1,21 @@
-<h1 style="align-items: center">Olá, me chamo Leonardo! 👋</h1>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=green&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=200&size=40&pause=1000&color=00F712&center=true&width=600&lines=Ol%C3%A1%2C+me+chamo+Leonardo!;Bem+vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
 🎒Eu estou estudando Engenharia de software!! <br>
 📚E estudando inglês na Open English! <br>
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+</div>
 
 ##
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
