@@ -1,9 +1,11 @@
 ---
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=150&size=40&pause=1000&color=00F712&center=true&width=650&lines=Hello+My+name+is+Leonardo!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 
----
+##
+
 <a>
 🎒I am studying Software Engineering!! <br>
 📚And studying English at Open English! <br>
@@ -40,7 +42,9 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
 
-  <picture>
+##
+
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoDLima/LeonardoDLima/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoDLima/LeonardoDLima/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeonardoDLima/LeonardoDLima/output/pacman-contribution-graph.svg">
@@ -52,10 +56,4 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=LeonardoDLima&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
-###
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>          
+##
