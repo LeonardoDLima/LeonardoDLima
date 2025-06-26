@@ -1,4 +1,9 @@
-## Olá, me chamo Leonardo! 👋
+<h1 style="align-items: center">Olá, me chamo Leonardo! 👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=green&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 🎒Eu estou estudando Engenharia de software!! <br>
 📚E estudando inglês na Open English! <br>
@@ -11,7 +16,7 @@
 </a>
 
 ##
-
+<h3 align="left">My Stack ~</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
