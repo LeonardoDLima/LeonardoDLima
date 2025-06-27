@@ -1,4 +1,4 @@
-<p align="center"> 🔦 Dica: Para uma melhor experiência visual, ative o modo escuro no seu navegador! </p>
+<p align="center"> 🔦 Tip: For a better visual experience, enable dark mode in your browser! </p>
 
 ##
 
