@@ -33,7 +33,7 @@
 **🧾 Miratta ERP**
 ERP system built on a COBOL-to-PHP transpiler, with modules for Brazilian electronic fiscal documents (DFe) — including NCM and CFOP registries. Developed collaboratively with a colleague.
 
-**💼 Autônomo**
+**💼 Orssalima**
 Micro SaaS built with Laravel to help freelancers manage budgets and proposals, featuring a custom ledger/receipt-style subscription page design.
 
 **🌐 Personal Portfolio**
